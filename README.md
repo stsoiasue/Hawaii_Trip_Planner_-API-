@@ -1,6 +1,6 @@
 # Hawaii Vacation Planning
 
-I created a Flask api to assist vacationers (to Hawaii) in retrieving climate data. I was provided climate measurements from 2010 to 2017 and mesurement station informtion in 2 csv files. 
+I created a Flask api to assist vacationers (to Hawaii) in retrieving climate data. I was provided climate measurements from 2010 to 2017 and mesurement station information in 2 csv files. 
 
 ## My app was created in the 4 steps below: 
 ___
